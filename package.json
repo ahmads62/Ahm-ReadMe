@@ -1,0 +1,27 @@
+{
+  "name": "ahm-readme",
+  "version": "1.0.0",
+  "description": "Automate ReadMe",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmads62/Ahm-ReadMe.git"
+  },
+  "keywords": [
+    "author"
+  ],
+  "author": "ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmads62/Ahm-ReadMe/issues"
+  },
+  "homepage": "https://github.com/ahmads62/Ahm-ReadMe"
+}
